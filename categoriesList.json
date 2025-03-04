@@ -1,0 +1,36 @@
+[
+  {
+    "imgSrc": "img/menu_1.png",
+    "count": "8 блюд",
+    "title": "САШИМИ"
+  },
+  {
+    "imgSrc": "img/menu_2.png",
+    "count": "29 блюд",
+    "title": "СУШИ"
+  },
+  {
+    "imgSrc": "img/menu_3.png",
+    "count": "8 блюд",
+    "title": "РОЛЛЫ"
+  },
+
+  {
+    "imgSrc": "img/menu_4.png",
+    "count": "16 бдлюд",
+    "title": "НАБОРЫ"
+  },
+
+  {
+    "imgSrc": "img/menu_5.png",
+    "count": "14 блюд",
+    "title": "САЛАТЫ"
+  },
+
+  {
+    "imgSrc": "img/menu_6.png",
+    "count": "18 блюд",
+    "title": "ГАРЯЧИЕ БЛЮДА"
+  }
+
+]

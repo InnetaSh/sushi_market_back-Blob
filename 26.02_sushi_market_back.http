@@ -1,0 +1,6 @@
+@_26._02_sushi_market_back_HostAddress = http://localhost:5256
+
+GET {{_26._02_sushi_market_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
